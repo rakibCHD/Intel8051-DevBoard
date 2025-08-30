@@ -5,7 +5,7 @@
 |-----------------------------------------------------| 
 
 Computer language:
-A computer language is a way to communicate with computers. 
+A computer language is a way to communicate with computers.. 
 It’s a set of instructions that tells a computer what to do.
 Just like humans use different languages to talk to each other, computers have their own languages that programmers use to write software, websites, apps, and more.
 
@@ -385,6 +385,7 @@ Edit
 10111000 00001010  ; Move 10 into register (like MOV AX, 10)
 Output:
 Not human-readable — executed by CPU directly.
+
 
 
 
